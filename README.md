@@ -11,7 +11,9 @@ Library Management System — это простое приложение для 
 2. Склонируйте репозиторий или скачайте файлы проекта на ваш компьютер.
 
 bash
+
    git clone https://github.com/ValentinGorovenko/Effective_Mobile_test
+   
    cd Effective_Mobile_test
 
 ## Использование
@@ -19,7 +21,9 @@ bash
 1. Для запуска проекта вам нужно будет выполнить python -m library.main из корневого каталога проекта (library_project/).
 
 bash
+
    cd library_project/
+
    python -m library.main
 
 2. Введите команду, чтобы взаимодействовать с библиотекой:
